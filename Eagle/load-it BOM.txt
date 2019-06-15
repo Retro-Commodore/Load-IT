@@ -1,0 +1,22 @@
+Partlist exported from D:/ARBEIT/LOAD-IT/load-it.sch at 2014-09-05 11:43:47
+
+Part   Value        Device       Package Description                                           
+C1     2.2µF, 6.3V  CPOL-EUE5-6  E5-6    POLARIZED CAPACITOR, European symbol                  
+C2     10nF         C2.5/2       C2.5-2  CAPACITOR                                             
+D1     1N4148DO35-7 1N4148DO35-7 DO35-7  DIODE                                                 
+DZ1    LB10         LB10         LB10    LED BLOCK                                             
+GND    LSP10        LSP10        LSP10   SOLDER PAD drill 1.0 mm, distributor Buerklin, 12H555 
+IC1    LM3914N      LM3914N      DIL18   LED DRIVER                                            
+IC2    CA3140N      CA3140N      DIL08   OP AMP                                                
+R1     10k 5%       R-EU_0207/10 0207/10 RESISTOR, European symbol                             
+R2     8k87 1%      R-EU_0207/10 0207/10 RESISTOR, European symbol                             
+R3     3k01 1%      R-EU_0207/10 0207/10 RESISTOR, European symbol                             
+R4     100k 5%      R-EU_0207/10 0207/10 RESISTOR, European symbol                             
+R5     1k 5%        R-EU_0207/10 0207/10 RESISTOR, European symbol                             
+R6     20k 1%       R-EU_0207/10 0207/10 RESISTOR, European symbol                             
+R7     22k 1%       R-EU_0207/10 0207/10 RESISTOR, European symbol                             
+R8     10k 5%       R-EU_0207/10 0207/10 RESISTOR, European symbol                             
+R9     9k76 1%      R-EU_0207/10 0207/10 RESISTOR, European symbol                             
+R10    330 5%       R-EU_0207/10 0207/10 RESISTOR, European symbol                             
+SIGNAL LSP10        LSP10        LSP10   SOLDER PAD drill 1.0 mm, distributor Buerklin, 12H555 
+VCC    VCC          LSP10        LSP10   SOLDER PAD drill 1.0 mm, distributor Buerklin, 12H555 
